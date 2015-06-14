@@ -3,7 +3,7 @@ package httpcache_test
 import (
 	"testing"
 
-	. "github.com/lox/httpcache"
+	. "github.com/hectorj/httpcache"
 	"github.com/stretchr/testify/require"
 )
 
